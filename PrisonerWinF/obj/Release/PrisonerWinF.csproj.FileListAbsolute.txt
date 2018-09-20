@@ -1,0 +1,12 @@
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\PrisonerWinF\PrisonerWinF\bin\Release\PrisonerWinF.exe.config
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\PrisonerWinF\PrisonerWinF\bin\Release\PrisonerWinF.exe
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\PrisonerWinF\PrisonerWinF\bin\Release\PrisonerWinF.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\PrisonerWinF\PrisonerWinF\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\PrisonerWinF\PrisonerWinF\bin\Release\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\PrisonerWinF\PrisonerWinF\obj\Release\PrisonerWinF.View.AddPrison.resources
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\PrisonerWinF\PrisonerWinF\obj\Release\PrisonerWinF.MainForm.resources
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\PrisonerWinF\PrisonerWinF\obj\Release\PrisonerWinF.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\PrisonerWinF\PrisonerWinF\obj\Release\PrisonerWinF.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\PrisonerWinF\PrisonerWinF\obj\Release\PrisonerWinF.exe
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\PrisonerWinF\PrisonerWinF\obj\Release\PrisonerWinF.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\PrisonerWinF\PrisonerWinF\obj\Release\PrisonerWinF.csprojResolveAssemblyReference.cache
